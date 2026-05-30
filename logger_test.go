@@ -7,7 +7,7 @@ import (
         "testing"
         "time"
 
-        "github.com/gddisney/ultimate_db"
+        "github.com/OTrustCloud/ultimate_db"
 )
 
 type MockExporter struct {
