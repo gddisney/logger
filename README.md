@@ -3,8 +3,6 @@
 
 The `logger` package provides a high-throughput, tamper-evident structured logging framework designed for zero-trust systems to have verifiable cryptographic state contracts managed by the **Secure Data Format (SDF)** protocol engine.
 
-Every emitted log statement, debugging event, or system audit record compiles directly into an immutable transaction receipt. Once a log entry is signed and sealed, its existence and contents are cryptographically provable and structurally impossible to retroactively alter or erase.
-
 ---
 
 ## 1. Architectural Blueprint
